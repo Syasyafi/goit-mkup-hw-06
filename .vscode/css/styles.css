@@ -195,7 +195,7 @@ address {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/people-office-1.jpg);
+    url(../images/people-office-1mobile.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -211,7 +211,7 @@ address {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/people-office-1@2x.jpg);
+      url(../images/people-office-1mobile@2x.jpg);
   }
 }
 
@@ -1006,7 +1006,7 @@ label {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/people-office-1.jpg);
+      url(../images/people-office-1tablet.jpg);
   }
   @media screen and (min-device-pixel-ratio: 2),
     screen and (min-resolution: 192dpi),
@@ -1016,7 +1016,7 @@ label {
           rgba(46, 47, 66, 0.7),
           rgba(46, 47, 66, 0.7)
         ),
-        url(../images/people-office-1@2x.jpg);
+        url(../images/people-office-1tablet@2x.jpg);
     }
   }
 
